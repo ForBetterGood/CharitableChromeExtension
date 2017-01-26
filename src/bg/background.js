@@ -51,7 +51,6 @@ chrome.webRequest.onBeforeRequest.addListener(
 
             chrome.notifications.create(notifyOptions);
 
-            // alert("If you make a transaction on Amazon now, at least 5% will be donated to the charity: " + charityLinks[rand].name);
             return { redirectUrl: charity.url };
         };
     }, {
