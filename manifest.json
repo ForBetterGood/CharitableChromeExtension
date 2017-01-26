@@ -18,6 +18,7 @@
     "options_page": "src/options/index.html",
     "permissions": [
         "webRequest",
+        "webRequestBlocking",
         "https://*/*",
         "http://*/*"
     ],
