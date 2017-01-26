@@ -21,7 +21,7 @@ chrome.webRequest.onBeforeRequest.addListener(
             url: 'http://www.amazon.co.uk/s?me=A2ETR4ARX8KZ&merchant=A2ETR4ARX8KZ&qid=1432073141'
         }, {
             name: 'Hospice Aid UK',
-            url: 'www.amazon.co.uk/?&tag=hoaiuk-21'
+            url: 'http://www.amazon.co.uk/?&tag=hoaiuk-21'
         }, {
             name: 'Weldmar Hospicecare',
             url: 'http://www.amazon.co.uk/?_encoding=UTF8&tag=weldmhospitru-21'

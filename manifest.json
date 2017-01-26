@@ -2,7 +2,7 @@
     "name": "Charitable",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "Do good by doing what you already do. This extension ensures that at least 5% of your Amazon purchases go to a random charity out of 12.",
+    "description": "Do good by doing what you already do. Visit Amazon normally, and at least 5% of your order value goes to a random charity out of 12.",
     "homepage_url": "https://gdgr.co.uk/charitable",
     "icons": {
         "16": "icons/icon16.png",
