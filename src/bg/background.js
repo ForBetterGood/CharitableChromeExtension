@@ -41,7 +41,7 @@ chrome.webRequest.onBeforeRequest.addListener(
 
         if (details.url == "https://www.amazon.co.uk/" || details.url == "https://www.amazon.com/gp/homepage.html") {
             var rand = Math.floor(Math.random() * charityLinks.length);
-            alert("If you make a transaction on Amazon now, at least 5% will be donated to the charity: ", charityLinks[rand].name);
+            alert("If you make a transaction on Amazon now, at least 5% will be donated to the charity: " + charityLinks[rand].name);
             return { redirectUrl: charityLinks[rand].url };
         };
     }, {
