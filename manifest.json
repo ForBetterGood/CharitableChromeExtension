@@ -15,7 +15,10 @@
     ],
     "persistent": true
   },
-  "options_page": "src/options/index.html",
+  "options_ui": {
+    "page": "src/options/index.html",
+    "chrome_style": true
+  },
   "permissions": [
     "webRequest",
     "webRequestBlocking",
