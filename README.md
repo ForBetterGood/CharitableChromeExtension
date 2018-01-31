@@ -1,29 +1,15 @@
-# README #
+# Charitable - A Chrome browser extension to make charity easier via Amazon #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The extension itself is [published here](https://chrome.google.com/webstore/detail/nblbmldigidmbimcmcamifcpmmmholbe)
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+If you'd like to run the addon, use the link above please. If you'd like to build upon it, feel free to fork or see contribution guidelines below.
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+Feel free to submit PRs which will enable new countries--it seems that almost every locale of Amazon has a different set-up. Any contributions will be welcomed!
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
